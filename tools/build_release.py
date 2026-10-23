@@ -22,7 +22,7 @@ def build():
     )
     root_files = [
         'app.py', 'requirements.txt', 'iniciar.ps1', '.gitignore', '.gitattributes', 'LICENSE',
-        'README.md', 'README_EN.md', 'DEMO.md', 'DEMO_EN.md', 'AWS_SETUP.md',
+        'README.md', 'README_EN.md', 'DEMO.md', 'DEMO_EN.md', 'VOICEOVER_EN.md', 'AWS_SETUP.md',
         'ENTREGA.md', 'CIERRE.md', 'SUBMISSION_EN.md', 'FEEDBACK_EN.md', 'iam-policy.json',
     ]
     paths = [root / name for name in root_files]
