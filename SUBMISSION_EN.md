@@ -68,10 +68,10 @@ Paste the observed feedback from [FEEDBACK_EN.md](FEEDBACK_EN.md). It identifies
 
 | Field | Status |
 | --- | --- |
-| GitHub repository URL | Pending owner publication/sharing; no URL invented |
-| Repository license or reviewer access | MIT license included; GitHub publication/access pending |
-| Public English demo video URL | MP4 completed (2 min 18 s); YouTube/Vimeo publication pending |
+| GitHub repository URL | https://github.com/Enrickq/aetheris-ai — public, source and assets verified |
+| Repository license or reviewer access | MIT license included; public repository |
+| Public English demo video URL | MP4 completed (2 min 18 s); author will publish on YouTube/Vimeo and provide the URL |
 | Team names, account, author credits, project dates | Pending owner confirmation |
 | Devpost entry and final submission | Pending account action |
 
-The source package and local English video are complete. No published repository/video URL, Alexa connection, live AWS call, or submitted entry is asserted by this text.
+The source package and English video are complete and available in the public GitHub repository. No YouTube/Vimeo URL, Alexa connection, live AWS call, or submitted entry is asserted by this text.

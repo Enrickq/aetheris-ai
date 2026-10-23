@@ -2,6 +2,8 @@
 
 [English demo video](demo/Aetheris-AI-demo-en.mp4), **2 min 18 s**; [captions](demo/captions_en.srt); [MIT license](LICENSE). The video is an edited walkthrough of the working local simulator, with synthetic English narration. Public video hosting is still pending.
 
+Public source repository: **https://github.com/Enrickq/aetheris-ai**. Code, tests, screenshots, video and reports have been published and compared with the local release.
+
 The complete implementation remains in `app.py`. Tests and release tooling are supporting files. To rebuild the verified ZIP and SHA-256 manifest, run `python tools/build_release.py`.
 
 A working web prototype that turns synthetic observatory telemetry into an understandable alert and a human-reviewed follow-up draft. The **Alexa+ simulation** workspace demonstrates a conversational, tool-driven experience; the **Observatory** workspace exposes the underlying measurements and analysis.
@@ -126,8 +128,9 @@ Tests use mocked AWS responses; they do not verify authorization, model availabi
 - [SUBMISSION_EN.md](SUBMISSION_EN.md): copy-ready project description and track disclosure.
 - [FEEDBACK_EN.md](FEEDBACK_EN.md): observed product feedback and implementation provenance.
 - [DEMO_EN.md](DEMO_EN.md): a roughly two-minute English walkthrough.
+- [VOICEOVER_EN.md](VOICEOVER_EN.md): six blocks for recording the author's own narration.
 - `tests/`: reproducible local checks.
 
 The intended primary track is the **Alexa+ simulated web experience** path. AWS Builder is an additional integration claim to assess separately: code and documentation exist, while live AWS execution remains unverified. This is not a claim of organizer approval. See the [event overview](https://amazonappdev2026.devpost.com/) and [official rules](https://amazonappdev2026.devpost.com/rules).
 
-**External items still required:** the owner's GitHub repository URL and appropriate reviewer access/license, a public English YouTube/Vimeo demo under three minutes, team/account fields, and the actual Devpost submission. This folder does not claim those actions have been completed.
+**External items still required:** the public English YouTube/Vimeo video URL, team/account fields, and the actual Devpost submission. The author will publish the video. The public GitHub repository and MIT license are already available; no submitted entry is claimed.

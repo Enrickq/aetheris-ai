@@ -2,6 +2,8 @@
 
 **Entrega 1.1.0:** [guía inglesa](README_EN.md), [estado de cierre](CIERRE.md) y [vídeo inglés de 2 min 18 s](demo/Aetheris-AI-demo-en.mp4). Incluye **Alexa+ simulation**, con herramientas locales, traza y seguimiento descargable; está marcada como simulación.
 
+Repositorio público verificado: **https://github.com/Enrickq/aetheris-ai**. La publicación del vídeo en YouTube/Vimeo la realizará el autor; el envío a Devpost sigue pendiente.
+
 MVP para Amazon Hackathon 2026: telemetría astronómica simulada del Roque de los Muchachos y explicación de anomalías con Amazon Bedrock. La aplicación completa está en **`app.py`**; los demás archivos ayudan a instalarla, probarla y presentarla.
 
 ## Arranque en Windows

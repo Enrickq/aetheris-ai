@@ -52,6 +52,7 @@ This feedback describes the implementation and local verification actually avail
 | Local test command | `python -m unittest discover -s tests -v`; AWS clients are mocked |
 | Evidence | Current logs/reports in the delivery; rehearsal output remains labeled simulated |
 | Live AWS and Alexa evidence | Not available in this delivery |
-| Published repository and video | Not asserted; owner must supply actual links |
+| Published repository | https://github.com/Enrickq/aetheris-ai; source, tests and assets verified |
+| Video | Local/GitHub MP4 completed; author will publish on YouTube/Vimeo |
 
 Relevant primary references: [Streamlit configuration restrictions](https://docs.streamlit.io/develop/api-reference/configuration/st.set_option), [AWS Claude Messages schema](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-anthropic-claude-messages-request-response.html), [boto3 credentials](https://docs.aws.amazon.com/boto3/latest/guide/credentials.html), and [AWS model lifecycle](https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle-legacy.html). These explain implementation choices; they do not substitute for runtime evidence.

@@ -40,4 +40,4 @@ El ID solicitado se conserva: `anthropic.claude-3-sonnet-20240229-v1:0`. Su disp
 
 ## Antes de enviar al evento
 
-Evento confirmado: Build, Ship, Shape: Amazon Developer Hackathon. La entrega local no está enviada a Devpost ni publicada en GitHub/YouTube/Vimeo. El vídeo y la licencia MIT están incluidos. Consulta `CIERRE.md` para las acciones de cuenta y `SUBMISSION_EN.md` para los textos del formulario.
+Evento confirmado: Build, Ship, Shape: Amazon Developer Hackathon. Código, vídeo y evidencias están publicados en https://github.com/Enrickq/aetheris-ai con licencia MIT. El autor publicará el vídeo en YouTube/Vimeo y facilitará su URL. El envío a Devpost sigue pendiente. Consulta `CIERRE.md` para las acciones de cuenta y `SUBMISSION_EN.md` para los textos del formulario.

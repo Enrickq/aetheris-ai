@@ -2,6 +2,8 @@
 
 The completed local video is [Aetheris-AI-demo-en.mp4](demo/Aetheris-AI-demo-en.mp4): **2 min 18 s**, 1920×1080, with synthetic English narration. It is an edited walkthrough of captures from the working local simulator; it has not been published to YouTube or Vimeo. The table below remains a guide for a live presentation or a new recording. The actual video narration is in [NARRATION_EN.txt](demo/NARRATION_EN.txt).
 
+For a recording in the author's own voice, use [VOICEOVER_EN.md](VOICEOVER_EN.md). It contains six spoken blocks and recording instructions. Keep the existing video as a fallback until the new audio has been reviewed and synchronized.
+
 ## Prepare the screen
 
 Run the app, choose **Workspace → Alexa+ simulation**, and set the analysis mode to **Ensayo local (sin AWS)**. Keep the simulation disclaimer visible. Use the local path for the script below; do not describe it as a live AWS or Alexa demonstration. Clear or restart the session before recording if it contains older results.
@@ -28,4 +30,4 @@ Only say a call is real after it succeeds with an authorized account. Keep the *
 
 Watch the recording from start to finish. Confirm the narration is in English, the functioning simulation is visible, and the video is publicly accessible on YouTube or Vimeo with a duration under three minutes. Use your own screen capture and narration; add only media you are authorized to use. The [event rules](https://amazonappdev2026.devpost.com/rules) remain the authority for submission requirements.
 
-**Pending external fields:** public video URL, team/author credits, repository URL, and final account submission. The local video already exists. Do not replace missing external fields with placeholder links.
+**Pending external fields:** public YouTube/Vimeo video URL, team/author credits, and final account submission. The local video and [public repository](https://github.com/Enrickq/aetheris-ai) already exist. The author will publish the video. Do not replace missing external fields with placeholder links.

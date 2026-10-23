@@ -13,14 +13,15 @@ Evento confirmado: [Build, Ship, Shape: Amazon Developer Hackathon](https://amaz
 | Textos ingleses | `README_EN.md`, `SUBMISSION_EN.md`, `FEEDBACK_EN.md`, `DEMO_EN.md` |
 | Vídeo inglés | `demo/Aetheris-AI-demo-en.mp4`, 2 min 18 s, 1920×1080, narrado |
 | Subtítulos y procedencia | `demo/captions_en.srt`, `demo/VIDEO_PROVENANCE.json` |
+| Guion para voz del autor | `VOICEOVER_EN.md`, seis bloques e instrucciones de grabación |
 | Licencia | MIT, archivo `LICENSE` |
+| Repositorio público | https://github.com/Enrickq/aetheris-ai — código, pruebas, vídeo y evidencias publicados |
 | Instalación y evidencias | Iniciador Windows, requisitos, capturas y exportaciones verificadas |
 
 ## Acciones de cuenta pendientes
 
-1. **GitHub:** publicar el código y obtener una URL real. El conector está instalado pero necesita una sesión válida. El paquete local no sustituye una URL de repositorio.
-2. **Vídeo público:** subir el MP4 a YouTube o Vimeo. El fichero local existe; aún no tiene URL pública.
-3. **Devpost:** iniciar sesión, confirmar datos del equipo y completar el formulario con los textos y enlaces. No hay inscripción enviada ni recibo de aceptación.
+1. **Vídeo en YouTube/Vimeo:** el autor ha elegido publicarlo por su cuenta y facilitar su URL. El MP4 está disponible localmente y en GitHub; todavía no se conoce un enlace de esas plataformas. Puede sustituirse la voz sintética por la voz del autor antes de publicarlo.
+2. **Devpost:** el acceso mediante GitHub solicita permiso de lectura de direcciones de correo. Esa autorización no se ha concedido. Después falta revisar los datos del equipo y completar el formulario con los textos y enlaces. No hay inscripción enviada ni recibo de aceptación.
 
 Las [bases](https://amazonappdev2026.devpost.com/rules) exigen el envío en la plataforma. La organización decide la elegibilidad. El titular debe revisar sus datos y aceptar las condiciones antes del envío final.
 
