@@ -1,0 +1,2 @@
+# Preserve exact release bytes across Windows/Linux checkouts and SHA-256 checks.
+* -text
