@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:06,151
+This is Aetheris A I, a browser simulation of an Alexa plus observatory assistant.
+
+2
+00:00:06,151 --> 00:00:08,626
+It uses synthetic telescope data.
+
+3
+00:00:08,626 --> 00:00:11,626
+This demonstration uses local rehearsal.
+
+4
+00:00:11,626 --> 00:00:16,577
+There is no live Alexa connection and no Amazon Web Services call.
+
+5
+00:00:17,577 --> 00:00:21,952
+The observatory view shows twenty reproducible observations.
+
+6
+00:00:21,952 --> 00:00:27,931
+Row seven, sector G T C zero zero seven, contains our deliberately injected event.
+
+7
+00:00:27,931 --> 00:00:37,264
+Its luminosity reaches nine thousand eight hundred arbitrary units, with a thermal variation of twelve hundred and fifty kelvin.
+
+8
+00:00:37,264 --> 00:00:40,982
+This is a test case, not an astronomical discovery.
+
+9
+00:00:41,982 --> 00:00:45,654
+The observer asks the assistant to scan the observatory.
+
+10
+00:00:45,654 --> 00:00:50,571
+The working tool processes the same data as the table and creates a report.
+
+11
+00:00:50,571 --> 00:00:53,784
+The response clearly identifies its local origin.
+
+12
+00:00:53,784 --> 00:01:02,373
+In the real Bedrock mode, this scan operation would instead send the required prompt and data through the implemented A W S client.
+
+13
+00:01:03,373 --> 00:01:06,776
+Next, explain the anomaly computes the evidence.
+
+14
+00:01:06,776 --> 00:01:13,795
+It compares the peak with the median of the other observations, giving a ratio of about ninety six.
+
+15
+00:01:13,795 --> 00:01:17,269
+The thermal measurement is reported alongside it.
+
+16
+00:01:17,269 --> 00:01:23,437
+This tool runs locally, so the explanation does not silently create another model call.
+
+17
+00:01:23,437 --> 00:01:27,833
+A possible supernova is still only a demonstration hypothesis.
+
+18
+00:01:28,833 --> 00:01:32,661
+Prepare follow up creates a downloadable J S O N draft.
+
+19
+00:01:32,661 --> 00:01:42,752
+It links the sector, measurements and original scan report, and proposes checks for calibration, additional observations and debris trajectories.
+
+20
+00:01:42,752 --> 00:01:45,119
+Its state is pending human review.
+
+21
+00:01:45,119 --> 00:01:48,668
+Nothing is sent and no telescope time is scheduled.
+
+22
+00:01:48,668 --> 00:01:53,053
+The draft can be inspected before any future authorized action.
+
+23
+00:01:54,053 --> 00:01:59,757
+The execution trace makes each tool visible, including its arguments and results.
+
+24
+00:01:59,757 --> 00:02:05,109
+The application remains in one Python file, with twenty six automated tests.
+
+25
+00:02:05,109 --> 00:02:12,152
+The Bedrock request format is tested with simulated clients, but no real cloud inference is claimed.
+
+26
+00:02:12,152 --> 00:02:17,363
+Our next step is an authorized cloud test and evaluation with astronomers.

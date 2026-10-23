@@ -1,0 +1,39 @@
+{
+  "video": "Aetheris-AI-demo-en.mp4",
+  "duration_seconds": 138.363,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "language": "en-US",
+  "narrator": "Microsoft Zira Desktop (synthetic)",
+  "footage": "Captures of the working local web simulator; edited walkthrough",
+  "aws_live_inference": false,
+  "alexa_connection": false,
+  "scenes": [
+    {
+      "source": "03-alexa-ready.png",
+      "duration_seconds": 17.577
+    },
+    {
+      "source": "01-panel.png",
+      "duration_seconds": 24.405
+    },
+    {
+      "source": "04-alexa-scan.png",
+      "duration_seconds": 21.39
+    },
+    {
+      "source": "05-alexa-explain.png",
+      "duration_seconds": 25.46
+    },
+    {
+      "source": "06-alexa-followup.png",
+      "duration_seconds": 25.22
+    },
+    {
+      "source": "07-alexa-trace.png",
+      "duration_seconds": 24.31
+    }
+  ]
+}

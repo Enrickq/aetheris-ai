@@ -1,0 +1,11 @@
+This is Aetheris A I, a browser simulation of an Alexa plus observatory assistant. It uses synthetic telescope data. This demonstration uses local rehearsal. There is no live Alexa connection and no Amazon Web Services call.
+
+The observatory view shows twenty reproducible observations. Row seven, sector G T C zero zero seven, contains our deliberately injected event. Its luminosity reaches nine thousand eight hundred arbitrary units, with a thermal variation of twelve hundred and fifty kelvin. This is a test case, not an astronomical discovery.
+
+The observer asks the assistant to scan the observatory. The working tool processes the same data as the table and creates a report. The response clearly identifies its local origin. In the real Bedrock mode, this scan operation would instead send the required prompt and data through the implemented A W S client.
+
+Next, explain the anomaly computes the evidence. It compares the peak with the median of the other observations, giving a ratio of about ninety six. The thermal measurement is reported alongside it. This tool runs locally, so the explanation does not silently create another model call. A possible supernova is still only a demonstration hypothesis.
+
+Prepare follow up creates a downloadable J S O N draft. It links the sector, measurements and original scan report, and proposes checks for calibration, additional observations and debris trajectories. Its state is pending human review. Nothing is sent and no telescope time is scheduled. The draft can be inspected before any future authorized action.
+
+The execution trace makes each tool visible, including its arguments and results. The application remains in one Python file, with twenty six automated tests. The Bedrock request format is tested with simulated clients, but no real cloud inference is claimed. Our next step is an authorized cloud test and evaluation with astronomers.
