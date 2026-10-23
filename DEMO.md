@@ -1,5 +1,9 @@
 # Aetheris AI · Guion de presentación
 
+Vídeo final: [Aetheris AI en YouTube](https://youtu.be/-5itenMafn0), **1 min 46 s**, con grabación inglesa aportada por el autor y subtítulos ingleses incrustados. El archivo final local es `entrega/Aetheris-AI-FINAL-subtitulado.mp4`; el vídeo de 138 s en `demo/` se conserva como respaldo con voz sintética. El montaje muestra el ensayo local de la aplicación; no una conexión real con Alexa ni una inferencia AWS.
+
+[Envío a Devpost confirmado](https://devpost.com/software/aetheris-ai) el 23 de octubre de 2026, aproximadamente a las 18:28 UTC, antes del cierre. El estado de envío no constituye una evaluación del jurado.
+
 ## Pitch breve
 
 > Aetheris AI convierte telemetría astronómica en una alerta que se puede entender. En este MVP simulamos 20 observaciones del Roque de los Muchachos, introducimos una anomalía evidente y enviamos exactamente esos datos a Claude 3 Sonnet mediante Amazon Bedrock. El observador ve el pico, recibe una explicación breve y puede descargar la evidencia. Todo funciona desde una aplicación Streamlit en un único archivo Python.

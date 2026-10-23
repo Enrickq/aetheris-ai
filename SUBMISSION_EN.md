@@ -1,6 +1,6 @@
 # Aetheris AI · Devpost copy
 
-Use the blocks below as project text. Replace the external fields at the end with real URLs and team information before submission.
+The blocks below record the project text and external fields for the confirmed Devpost submission.
 
 ## Project title
 
@@ -64,20 +64,20 @@ Python, Streamlit, Pandas, boto3, Amazon Bedrock invocation API, Anthropic Claud
 
 Paste the observed feedback from [FEEDBACK_EN.md](FEEDBACK_EN.md). It identifies implementation experience and local checks separately from services we have not used live.
 
-## Remaining external fields
+## Submitted external fields
 
 | Field | Status |
 | --- | --- |
 | GitHub repository URL | https://github.com/Enrickq/aetheris-ai — public, source and assets verified |
 | Repository license or reviewer access | MIT license included; public repository |
-| Public English demo video URL | No URL yet. Current MP4 is 138 seconds with synthetic narration. The author plans to record their own voice; no new audio has been received or edited. Author will publish on YouTube/Vimeo |
+| Public English demo video URL | https://youtu.be/-5itenMafn0 — final 1:46 walkthrough, author-supplied English recording and burned-in English subtitles; supplied by the author |
 | Devpost account and event registration | Authenticated and registered |
-| Devpost draft | https://devpost.com/software/aetheris-ai; management ID 1257991-aetheris-ai; 3/5 steps complete |
+| Devpost project | https://devpost.com/software/aetheris-ai; management ID 1257991-aetheris-ai; submission confirmed |
 | Saved project details | English description, repository, four technology tags and three inline screenshots saved |
 | Saved additional information | Tool feedback, testing instructions and friction log saved |
-| Selected track and mini challenges | Alexa+ simulated web experience; AWS Builder and Open Source not selected in the draft |
+| Selected track and mini challenges | Alexa+ simulated web experience; AWS Builder and Open Source not selected |
 | Public friction log | https://github.com/Enrickq/aetheris-ai/blob/main/evidencias/FRICTION_LOG_EN.md |
-| Team names, author credits, project dates | Owner must confirm during final review |
-| Final terms and submission | Final terms not accepted; final submission not sent; no submission confirmation |
+| Team names, author credits, project dates | Individual participation and required personal eligibility fields confirmed by owner; account/team information saved in Devpost |
+| Final terms and submission | Final form completed; Devpost displayed “Project submitted!” and “SUBMITTED TO” Build, Ship, Shape on October 23, 2026, at approximately 18:28 UTC, before the deadline |
 
-The source package and English video are complete and available in the public GitHub repository. No YouTube/Vimeo URL, Alexa connection, live AWS call, or submitted entry is asserted by this text.
+The source package and earlier synthetic-narration backup video are available in the public GitHub repository. The final captioned video is linked above on YouTube. Local submission confirmation capture: `entrega/devpost-enviado-confirmacion.png`. The confirmation establishes submission, not an organizer eligibility or judging decision. No live Alexa connection or live AWS call is asserted by this text.

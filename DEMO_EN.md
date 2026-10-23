@@ -1,8 +1,8 @@
 # Aetheris AI · English demo script
 
-The completed local video is [Aetheris-AI-demo-en.mp4](demo/Aetheris-AI-demo-en.mp4): **2 min 18 s**, 1920×1080, with synthetic English narration. It is an edited walkthrough of captures from the working local simulator; it has not been published to YouTube or Vimeo. The table below remains a guide for a live presentation or a new recording. The actual video narration is in [NARRATION_EN.txt](demo/NARRATION_EN.txt).
+The final [English demo on YouTube](https://youtu.be/-5itenMafn0) is **1 min 46 s**, 1920×1080, with an author-supplied recording and burned-in English subtitles. Its local file is `entrega/Aetheris-AI-FINAL-subtitulado.mp4` (106.37 seconds). It is an edited walkthrough of captures from the functioning local simulator. The table below remains a guide for a live presentation or a new recording, rather than an exact timing map of the final edit.
 
-For a recording in the author's own voice, use [VOICEOVER_EN.md](VOICEOVER_EN.md). It contains six spoken blocks and recording instructions. Keep the existing video as a fallback until the new audio has been reviewed and synchronized.
+The six-block recording script is [VOICEOVER_EN.md](VOICEOVER_EN.md). The supplied recording has been edited, normalized and synchronized with captions. The earlier [2 min 18 s video](demo/Aetheris-AI-demo-en.mp4), its [narration text](demo/NARRATION_EN.txt), and its separate captions remain a backup with synthetic narration.
 
 ## Prepare the screen
 
@@ -30,4 +30,4 @@ Only say a call is real after it succeeds with an authorized account. Keep the *
 
 Watch the recording from start to finish. Confirm the narration is in English, the functioning simulation is visible, and the video is publicly accessible on YouTube or Vimeo with a duration under three minutes. Use your own screen capture and narration; add only media you are authorized to use. The [event rules](https://amazonappdev2026.devpost.com/rules) remain the authority for submission requirements.
 
-**Pending external fields:** public YouTube/Vimeo video URL, team/author credits, and final account submission. The local video and [public repository](https://github.com/Enrickq/aetheris-ai) already exist. The author will publish the video. Do not replace missing external fields with placeholder links.
+**[Devpost submission confirmed](https://devpost.com/software/aetheris-ai):** the platform displayed “Project submitted!” and “SUBMITTED TO” Build, Ship, Shape on October 23, 2026, at approximately 18:28 UTC, before the deadline. The final video URL is included. This records submission rather than an organizer eligibility or judging decision. The [public repository](https://github.com/Enrickq/aetheris-ai) remains available.

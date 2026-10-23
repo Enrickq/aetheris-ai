@@ -1,8 +1,8 @@
 # Aetheris AI
 
-**Entrega 1.1.0:** [guía inglesa](README_EN.md), [estado de cierre](CIERRE.md) y [vídeo inglés de 2 min 18 s](demo/Aetheris-AI-demo-en.mp4). Incluye **Alexa+ simulation**, con herramientas locales, traza y seguimiento descargable; está marcada como simulación.
+**Entrega 1.1.0:** [guía inglesa](README_EN.md), [estado de cierre](CIERRE.md) y [vídeo final inglés de 1 min 46 s](https://youtu.be/-5itenMafn0), con grabación aportada por el autor y subtítulos ingleses incrustados. Incluye **Alexa+ simulation**, con herramientas locales, traza y seguimiento descargable; está marcada como simulación.
 
-Repositorio público verificado: **https://github.com/Enrickq/aetheris-ai**. La publicación del vídeo en YouTube/Vimeo la realizará el autor; el envío a Devpost sigue pendiente.
+Repositorio público verificado: **https://github.com/Enrickq/aetheris-ai**. **[Proyecto enviado a Devpost](https://devpost.com/software/aetheris-ai)**: la plataforma mostró «Project submitted!» y su vinculación con Build, Ship, Shape el 23 de octubre de 2026, aproximadamente a las 18:28 UTC, antes del cierre. Esto confirma el envío, no una decisión de elegibilidad o del jurado. El vídeo anterior de 2 min 18 s en `demo/` se conserva como respaldo con voz sintética.
 
 MVP para Amazon Hackathon 2026: telemetría astronómica simulada del Roque de los Muchachos y explicación de anomalías con Amazon Bedrock. La aplicación completa está en **`app.py`**; los demás archivos ayudan a instalarla, probarla y presentarla.
 
@@ -122,4 +122,4 @@ La suite comprueba datos, formato de la petición, procesamiento de respuestas y
 
 Consulta [el registro de verificación](evidencias/VERIFICACION.md) y [la captura del ensayo](evidencias/02-alerta-ensayo.png). El ZIP de entrega incluye una lista SHA-256 de sus archivos y excluye el entorno virtual, las cachés y la configuración personal de AWS.
 
-La entrega se ejecuta localmente; no incluye publicación pública ni provisión de infraestructura cloud.
+La aplicación se ejecuta localmente; no incluye un despliegue web alojado ni provisión de infraestructura cloud. El código, el vídeo y la candidatura se publican mediante los enlaces indicados arriba.

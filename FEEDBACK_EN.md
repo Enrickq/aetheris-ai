@@ -53,6 +53,14 @@ This feedback describes the implementation and local verification actually avail
 | Evidence | Current logs/reports in the delivery; rehearsal output remains labeled simulated |
 | Live AWS and Alexa evidence | Not available in this delivery |
 | Published repository | https://github.com/Enrickq/aetheris-ai; source, tests and assets verified |
-| Video | Local/GitHub MP4 completed; author will publish on YouTube/Vimeo |
+| Final video | https://youtu.be/-5itenMafn0 — 1:46, author-supplied English recording, burned-in English subtitles; final local MP4 in `entrega/` |
+| Backup video | Earlier 138-second synthetic-narration MP4 and separate captions remain in `demo/` |
+| Devpost | https://devpost.com/software/aetheris-ai — submission confirmed by the platform on October 23, 2026, at approximately 18:28 UTC; this is not an eligibility or judging decision |
+
+## Final video preparation
+
+FFmpeg edited and normalized the author-supplied recording and synchronized it with captures of the functioning local app. Local Faster-Whisper (`small.en`, CPU) supplied word timings; caption wording was reviewed against the recording script before burning English subtitles into the final video. No voice was generated for this final edit.
+
+**Local tooling friction:** Faster-Whisper 1.2.1 with PyAV 19 rejected a decoder `metadata_errors` argument. Decoding with FFmpeg to a 16 kHz float32 waveform and passing the NumPy array to the local transcriber resolved that incompatibility. Automatic recognition also needed script review for proper names and technical terms. This was a local media-tool compatibility issue, not an AWS or Alexa failure.
 
 Relevant primary references: [Streamlit configuration restrictions](https://docs.streamlit.io/develop/api-reference/configuration/st.set_option), [AWS Claude Messages schema](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-anthropic-claude-messages-request-response.html), [boto3 credentials](https://docs.aws.amazon.com/boto3/latest/guide/credentials.html), and [AWS model lifecycle](https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle-legacy.html). These explain implementation choices; they do not substitute for runtime evidence.

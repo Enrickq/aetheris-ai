@@ -4,7 +4,7 @@
 **Pista preparada:** Alexa+ — experiencia web simulada  
 **Tecnología AWS implementada:** Amazon Bedrock Runtime con Claude 3 Sonnet
 
-**Devpost:** usuario autenticado y registrado; [borrador creado](https://devpost.com/software/aetheris-ai), ID `1257991-aetheris-ai`, **3/5 pasos completos**. Descripción inglesa, repositorio, cuatro etiquetas tecnológicas y tres capturas guardados. Información adicional de feedback, pruebas y friction log guardada. Pista Alexa+ simulada seleccionada; AWS Builder y Open Source no seleccionados. **Sin URL de vídeo, aceptación de términos finales ni envío final todavía.**
+**Devpost: [envío confirmado](https://devpost.com/software/aetheris-ai)**, ID `1257991-aetheris-ai`. La plataforma mostró **«Project submitted!»** y **«SUBMITTED TO» Build, Ship, Shape** el 23 de octubre de 2026, aproximadamente a las **18:28 UTC**, antes del cierre. Descripción inglesa, repositorio, cuatro etiquetas tecnológicas, tres capturas, feedback, pruebas, friction log y [vídeo final](https://youtu.be/-5itenMafn0) incluidos. Pista Alexa+ simulada seleccionada; AWS Builder y Open Source no seleccionados. Captura local: `entrega/devpost-enviado-confirmacion.png`. La confirmación acredita el envío, no una decisión de elegibilidad ni del jurado.
 
 ## Descripción breve para el formulario
 
@@ -23,8 +23,8 @@ Un pico de telemetría necesita contexto para ser investigado. Este MVP demuestr
 - CSV de telemetría e informe JSON que distingue `bedrock` y `ensayo_local`.
 - Pruebas automatizadas y capturas de la ejecución local en `evidencias/`.
 - Espacio **Alexa+ simulation**: escaneo, explicación, traza y seguimiento para revisión humana.
-- Vídeo inglés actual de 138 s, con voz sintética, en `demo/Aetheris-AI-demo-en.mp4`.
-- Guion `VOICEOVER_EN.md` para la voz del autor; el audio propio aún no se ha recibido ni montado.
+- [Vídeo inglés final de 1:46](https://youtu.be/-5itenMafn0), con grabación aportada por el autor y subtítulos ingleses incrustados. Archivo local: `entrega/Aetheris-AI-FINAL-subtitulado.mp4`.
+- Guion `VOICEOVER_EN.md`; la grabación recibida ya se ha editado, normalizado y sincronizado. El vídeo anterior de 138 s en `demo/` queda como respaldo con voz sintética.
 - Textos del formulario y feedback en `SUBMISSION_EN.md` y `FEEDBACK_EN.md`.
 - [Friction log público](https://github.com/Enrickq/aetheris-ai/blob/main/evidencias/FRICTION_LOG_EN.md) con dos observaciones locales de Streamlit.
 
@@ -42,6 +42,6 @@ El ID solicitado se conserva: `anthropic.claude-3-sonnet-20240229-v1:0`. Su disp
 4. Descarga el JSON y comprueba su procedencia. En **Observatory** puedes revisar `GTC-007`, la gráfica y exportar el CSV.
 5. Consulta `DEMO_EN.md` para la presentación inglesa, `VOICEOVER_EN.md` para la narración y `AWS_SETUP.md` para probar la ruta real.
 
-## Antes de enviar al evento
+## Entrega al evento
 
-Evento confirmado: Build, Ship, Shape: Amazon Developer Hackathon. Código, vídeo actual y evidencias están publicados en https://github.com/Enrickq/aetheris-ai con licencia MIT. El usuario preparará su grabación de voz; todavía no se ha recibido. Publicará el vídeo en YouTube/Vimeo y facilitará su URL. El borrador está guardado en Devpost, pero faltan el vídeo y el cierre final. Consulta `CIERRE.md` para el estado y `SUBMISSION_EN.md` para los textos del formulario.
+Evento: Build, Ship, Shape: Amazon Developer Hackathon. Código, vídeo de respaldo y evidencias están publicados en https://github.com/Enrickq/aetheris-ai con licencia MIT. El [vídeo final publicado](https://youtu.be/-5itenMafn0) utiliza la grabación aportada por el autor y subtítulos ingleses. Devpost confirmó el envío antes del cierre. Consulta `CIERRE.md` para la confirmación y los límites de la demo, y `SUBMISSION_EN.md` para los textos del formulario.

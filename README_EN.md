@@ -1,8 +1,8 @@
 # Aetheris AI · v1.1.0
 
-[English demo video](demo/Aetheris-AI-demo-en.mp4), **2 min 18 s**; [captions](demo/captions_en.srt); [MIT license](LICENSE). The video is an edited walkthrough of the working local simulator, with synthetic English narration. Public video hosting is still pending.
+[Final English demo video](https://youtu.be/-5itenMafn0), **1 min 46 s**, with an author-supplied recording and burned-in English subtitles; [MIT license](LICENSE). It is an edited walkthrough of the working local simulator. The earlier [2 min 18 s backup](demo/Aetheris-AI-demo-en.mp4) uses synthetic narration and has separate [captions](demo/captions_en.srt).
 
-Public source repository: **https://github.com/Enrickq/aetheris-ai**. Code, tests, screenshots, video and reports have been published and compared with the local release.
+Public source repository: **https://github.com/Enrickq/aetheris-ai**. Code, tests, screenshots, the earlier backup video and reports have been published and compared with the local release. The author has supplied the YouTube URL for the final captioned video above.
 
 The complete implementation remains in `app.py`. Tests and release tooling are supporting files. To rebuild the verified ZIP and SHA-256 manifest, run `python tools/build_release.py`.
 
@@ -131,6 +131,6 @@ Tests use mocked AWS responses; they do not verify authorization, model availabi
 - [VOICEOVER_EN.md](VOICEOVER_EN.md): six blocks for recording the author's own narration.
 - `tests/`: reproducible local checks.
 
-The intended primary track is the **Alexa+ simulated web experience** path. AWS Builder is an additional integration claim to assess separately: code and documentation exist, while live AWS execution remains unverified. This is not a claim of organizer approval. See the [event overview](https://amazonappdev2026.devpost.com/) and [official rules](https://amazonappdev2026.devpost.com/rules).
+The submitted primary track is the **Alexa+ simulated web experience** path. AWS Builder and Open Source mini challenges were not selected. Bedrock code and documentation exist, while live AWS execution remains unverified. This is not a claim of organizer approval. See the [event overview](https://amazonappdev2026.devpost.com/) and [official rules](https://amazonappdev2026.devpost.com/rules).
 
-**External items still required:** the public English YouTube/Vimeo video URL, team/account fields, and the actual Devpost submission. The author will publish the video. The public GitHub repository and MIT license are already available; no submitted entry is claimed.
+**[Devpost submission confirmed](https://devpost.com/software/aetheris-ai):** the platform displayed “Project submitted!” and “SUBMITTED TO” Build, Ship, Shape on October 23, 2026, at approximately 18:28 UTC, before the 19:00 UTC deadline. The entry includes the final YouTube video. This confirms submission, not an organizer eligibility or judging decision. Local confirmation capture: `entrega/devpost-enviado-confirmacion.png`.
