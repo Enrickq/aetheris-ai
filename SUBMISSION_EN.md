@@ -70,8 +70,14 @@ Paste the observed feedback from [FEEDBACK_EN.md](FEEDBACK_EN.md). It identifies
 | --- | --- |
 | GitHub repository URL | https://github.com/Enrickq/aetheris-ai — public, source and assets verified |
 | Repository license or reviewer access | MIT license included; public repository |
-| Public English demo video URL | MP4 completed (2 min 18 s); author will publish on YouTube/Vimeo and provide the URL |
-| Team names, account, author credits, project dates | Pending owner confirmation |
-| Devpost entry and final submission | Pending account action |
+| Public English demo video URL | No URL yet. Current MP4 is 138 seconds with synthetic narration. The author plans to record their own voice; no new audio has been received or edited. Author will publish on YouTube/Vimeo |
+| Devpost account and event registration | Authenticated and registered |
+| Devpost draft | https://devpost.com/software/aetheris-ai; management ID 1257991-aetheris-ai; 3/5 steps complete |
+| Saved project details | English description, repository, four technology tags and three inline screenshots saved |
+| Saved additional information | Tool feedback, testing instructions and friction log saved |
+| Selected track and mini challenges | Alexa+ simulated web experience; AWS Builder and Open Source not selected in the draft |
+| Public friction log | https://github.com/Enrickq/aetheris-ai/blob/main/evidencias/FRICTION_LOG_EN.md |
+| Team names, author credits, project dates | Owner must confirm during final review |
+| Final terms and submission | Final terms not accepted; final submission not sent; no submission confirmation |
 
 The source package and English video are complete and available in the public GitHub repository. No YouTube/Vimeo URL, Alexa connection, live AWS call, or submitted entry is asserted by this text.
