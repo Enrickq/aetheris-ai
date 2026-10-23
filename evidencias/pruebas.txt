@@ -1,0 +1,31 @@
+test_bedrock_scan_is_the_only_step_that_invokes_aws (test_app.AlexaSimulationTests.test_bedrock_scan_is_the_only_step_that_invokes_aws) ... ok
+test_explain_and_followup_require_a_successful_scan (test_app.AlexaSimulationTests.test_explain_and_followup_require_a_successful_scan) ... ok
+test_failed_scan_does_not_create_an_analysis_or_ticket (test_app.AlexaSimulationTests.test_failed_scan_does_not_create_an_analysis_or_ticket) ... ok
+test_followup_rejects_a_report_for_different_telemetry (test_app.AlexaSimulationTests.test_followup_rejects_a_report_for_different_telemetry) ... ok
+test_local_scan_explanation_and_followup_execute_tools (test_app.AlexaSimulationTests.test_local_scan_explanation_and_followup_execute_tools) ... ok
+test_mode_change_discards_old_ticket_and_conversation (test_app.AlexaSimulationTests.test_mode_change_discards_old_ticket_and_conversation) ... ok
+test_request_router_does_not_execute_unknown_commands (test_app.AlexaSimulationTests.test_request_router_does_not_execute_unknown_commands) ... ok
+test_aws_error_is_propagated_and_client_closed (test_app.BedrockTests.test_aws_error_is_propagated_and_client_closed) ... ok
+test_empty_responses_are_rejected (test_app.BedrockTests.test_empty_responses_are_rejected) ... ok
+test_invalid_response_shape_is_rejected (test_app.BedrockTests.test_invalid_response_shape_is_rejected) ... ok
+test_malformed_json_closes_resources (test_app.BedrockTests.test_malformed_json_closes_resources) ... ok
+test_non_text_blocks_are_ignored (test_app.BedrockTests.test_non_text_blocks_are_ignored) ... ok
+test_request_contains_exact_prompt_and_visible_data (test_app.BedrockTests.test_request_contains_exact_prompt_and_visible_data) ... ok
+test_demo_is_reproducible (test_app.DataTests.test_demo_is_reproducible) ... ok
+test_seventh_row_is_the_extreme_anomaly (test_app.DataTests.test_seventh_row_is_the_extreme_anomaly) ... ok
+test_twenty_rows_five_columns_and_one_based_index (test_app.DataTests.test_twenty_rows_five_columns_and_one_based_index) ... ok
+test_bad_response_is_visible_error (test_app.InterfaceTests.test_bad_response_is_visible_error) ... ok
+test_empty_region_does_not_attempt_aws (test_app.InterfaceTests.test_empty_region_does_not_attempt_aws) ... ok
+test_initial_load_does_not_invoke_aws (test_app.InterfaceTests.test_initial_load_does_not_invoke_aws) ... ok
+test_live_analysis_persists_without_reinvoking_aws (test_app.InterfaceTests.test_live_analysis_persists_without_reinvoking_aws) ... ok
+test_local_rehearsal_is_explicit_and_never_calls_aws (test_app.InterfaceTests.test_local_rehearsal_is_explicit_and_never_calls_aws) ... ok
+test_local_report_never_attributes_analysis_to_aws (test_app.InterfaceTests.test_local_report_never_attributes_analysis_to_aws) ... ok
+test_missing_credentials_and_denied_access_are_visible_errors (test_app.InterfaceTests.test_missing_credentials_and_denied_access_are_visible_errors) ... ok
+test_real_report_preserves_provenance_and_visible_telemetry (test_app.InterfaceTests.test_real_report_preserves_provenance_and_visible_telemetry) ... ok
+test_region_change_invalidates_old_analysis (test_app.InterfaceTests.test_region_change_invalidates_old_analysis) ... ok
+test_switching_mode_invalidates_report_before_new_analysis (test_app.InterfaceTests.test_switching_mode_invalidates_report_before_new_analysis) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 5.200s
+
+OK

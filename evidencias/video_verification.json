@@ -1,0 +1,27 @@
+{
+  "file": "Aetheris-AI-demo-en.mp4",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 138.43
+  },
+  "full_decode": "passed",
+  "mean_audio_volume_db": -20.4,
+  "visual_review_seconds": [
+    5,
+    75,
+    120
+  ]
+}
